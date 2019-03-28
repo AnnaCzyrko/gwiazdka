@@ -2,3 +2,5 @@ oeudyfiusdhfgkjdhf;d
 djdfgzdskfhhjfkdj
 sfhzskdfhdisojskdfhoslkngfkjds
 dkjghslkdhdosfjdl
+----------------------
+Git exercise. Initial commit, small changes made into the file.
