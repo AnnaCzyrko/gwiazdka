@@ -2,4 +2,5 @@ oeudyfiusdhfgkjdhf;d
 djdfgzdskfhhjfkdj
 sfhzskdfhdisojskdfhoslkngfkjds
 dkjghslkdhdosfjdl
-dishfsadndjnvsoivjiosjfijfioaewhfuahfeuwahfudsabvjuis
+----------------------
+Git exercise. Initial commit, small changes made into the file.
