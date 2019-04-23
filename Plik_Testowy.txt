@@ -1,1 +1,2 @@
 To jest tylko plik testowy.
+Dalszy ci¹g testów:)
